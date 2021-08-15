@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+
+# Env
+venv/
+
+# MacOS
+.DS_Store
+
+# IDE
+.idea/
+
+# Logs
+log-*.txt
